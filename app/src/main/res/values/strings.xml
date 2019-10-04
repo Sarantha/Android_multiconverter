@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Multi Unit Converter</string>
+    <string name="app_temp">Temperature Converter</string>
+    <string name="app_leng">Length Converter</string>
+    <string name="app_volm">Volume Converter</string>
+    <string name="app_time">Time Converter</string>
+    <string name="app_area">Area Converter</string>
+    <string name="app_spee">Speed Converter</string>
+    <string name="app_conv">Convert</string>
+    <string name="app_conv_val">Value to Convert</string>
+    <string name="app_conv_ans">Converted Value</string>
+    <string name="app_clear">Reset Value</string>
+
+</resources>

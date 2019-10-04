@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorTempBack">#03A9F4</color>
+    <color name="colorTempconv">#029cad</color>
+    <color name="colorLengconv">#f76300</color>
+    <color name="colorVoluconv">#0052d6</color>
+    <color name="colorTimeconv">#a10379</color>
+    <color name="colorspeeconv">#03a152</color>
+    <color name="colorareaconv">#a12727</color>
+</resources>
